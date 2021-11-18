@@ -76,7 +76,6 @@ p {
 }
 
 .what-we-do-title {
-    position: relative;
     margin-bottom: 20px;
     padding: 50px;
     height: 30px;
@@ -85,10 +84,9 @@ p {
     color: #ffffff;
 }
 
-.what-we-do-title p {
-    position: absolute;
+.what-we-do-title h2 {
     font-size: 45px;
-    padding: 50px 250px 50px 250px;
+    text-align: center;
 }
 
 .benefits {
