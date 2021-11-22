@@ -84,7 +84,12 @@ p {
     color: #ffffff;
     display: flex;
     justify-content: center;
-    vertical-align: middle;
+    position: relative;
+}
+
+.what-we-do-title-ps {
+    position: absolute;
+    bottom: 20px;
 }
 
 .what-we-do-title h2 {
