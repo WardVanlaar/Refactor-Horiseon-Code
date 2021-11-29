@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Refactor source code Horiseon website
 
 ## Purpose
 This website provides an overview of what Horiseon does and the benefits of working with them.
